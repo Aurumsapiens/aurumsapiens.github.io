@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /lotto
+Allow: /
 
 Sitemap: https://aurumsapiens.github.io/sitemap.xml
